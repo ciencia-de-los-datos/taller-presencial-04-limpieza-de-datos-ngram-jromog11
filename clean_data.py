@@ -27,7 +27,7 @@
 #     df["key"] = df["key"].str.split()
 
 #     # ------------------------------------------------------
-#     # Esta es la parte especifica del algoritmo de n-gram:
+#     # Esta es la parte especifica del algoritmo de n-gram: 
 #     #
 #     # - Una el texto sin espacios en blanco
 #     df["key"] = df["key"].str.join("")
